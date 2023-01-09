@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "email": "janh@gmail.com",
+      "password": "$2a$10$LXiIW.XBXYEXPcN807fS7uUfMcgrYIT6bs76H2fihXSeLBihgERKC",
+      "name": "janhavi",
+      "id": 1
+    },
+    {
+      "email": "something@gmail.com",
+      "password": "$2a$10$ltb7NjVS9jVs69kt2VqjGe9ZKgNUCBgwyPhqBLpaT0j4bwTLE5mYi",
+      "name": "something",
+      "id": 2
+    }
+  ],
+  "cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+      "year": 2019,
+      "type": "Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    },
+    {
+      "brand": "Maruti",
+      "year": 2019,
+      "type": "Automatic",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 100000,
+      "id": 2
+    },
+    {
+      "brand": "Toyota",
+      "year": 2020,
+      "type": "Automatic",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 120000,
+      "id": 3
+    },
+    {
+      "brand": "Toyota",
+      "year": 2020,
+      "type": "Automatic",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 120000,
+      "id": 4
+    }
+  ]
+}
