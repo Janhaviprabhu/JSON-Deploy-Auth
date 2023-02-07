@@ -54,73 +54,43 @@
  "estateData":[
   {
     "id": 1,
-    "adress": "Room 1316",
-    "price": "$940.78",
-    "type": "Bunglow",
-    "images": "http://dummyimage.com/147x100.png/5fa2dd/ffffff"
+    "title": "Casa com Piscina",
+    "adress":"Centro /109 house ,India",
+    "type": "house",
+    "bed": "4",
+    "district": "Centro",
+    "price": "R$ 2.600.000",
+    "photo": "https://res.cloudinary.com/dvcywi3uf/image/upload/v1520011556/chatbot-imoveis/casa-centro.jpg"
   },
   {
     "id": 2,
-    "adress": "Apt 954",
-    "price": "$869.49",
-    "type": "Appartment",
-    "images": "http://dummyimage.com/105x100.png/ff4444/ffffff"
+    "title": "Casa Costa e Silva",
+    "adress":"Casa-costa Street- Xtria, India",
+    "type": "house",
+    "bed": "3",
+    "district": "Costa e Silva",
+    "price": "R$ 280.000",
+    "photo": "https://res.cloudinary.com/dvcywi3uf/image/upload/v1520014276/chatbot-imoveis/casa-costa-silva.jpg"
   },
   {
     "id": 3,
-    "adress": "Apt 1071",
-    "price": "$660.11",
-    "type": "Appartment",
-    "images": "http://dummyimage.com/165x100.png/dddddd/000000"
+    "title": "AP América",
+   "adress":"America Street- Lavasa NewYork, USA",
+    "type": "ap",
+    "bed": "2",
+    "district": "América",
+    "price": "R$ 460.000",
+    "photo": "https://res.cloudinary.com/dvcywi3uf/image/upload/v1520014434/chatbot-imoveis/ap-america.jpg"
   },
   {
     "id": 4,
-    "adress": "Suite 39",
-    "price": "$806.95",
-    "type": "Bunglow",
-    "images": "http://dummyimage.com/144x100.png/cc0000/ffffff"
-  },
-  {
-    "id": 5,
-    "adress": "5th Floor",
-    "price": "$606.68",
-    "type": "Appartment",
-    "images": "http://dummyimage.com/196x100.png/dddddd/000000"
-  },
-  {
-    "id": 6,
-    "adress": "Room 373",
-    "price": "$840.83",
-    "type": "Primmer",
-    "images": "http://dummyimage.com/214x100.png/ff4444/ffffff"
-  },
-  {
-    "id": 7,
-    "adress": "Room 1160",
-    "price": "$565.69",
-    "type": "Bunglow",
-    "images": "http://dummyimage.com/186x100.png/cc0000/ffffff"
-  },
-  {
-    "id": 8,
-    "adress": "PO Box 11266",
-    "price": "$693.94",
-    "type": "Land",
-    "images": "http://dummyimage.com/139x100.png/cc0000/ffffff"
-  },
-  {
-    "id": 9,
-    "adress": "Apt 318",
-    "price": "$837.71",
-    "type": "Appartment",
-    "images": "http://dummyimage.com/228x100.png/cc0000/ffffff"
-  },
-  {
-    "id": 10,
-    "adress": "Suite 60",
-    "price": "$763.88",
-    "type": "Land",
-    "images": "http://dummyimage.com/157x100.png/dddddd/000000"
+    "title": "AP Centro",
+    "adress":"AP - 202 United, USA",
+    "type": "ap",
+    "bed": "2",
+    "district": "Centro",
+    "price": "R$ 1.200",
+    "photo": "https://res.cloudinary.com/dvcywi3uf/image/upload/v1520014434/chatbot-imoveis/ap-america.jpg"
   }
  ]
 }
