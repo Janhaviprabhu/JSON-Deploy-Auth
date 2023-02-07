@@ -57,40 +57,40 @@
     "title": "Casa com Piscina",
     "adress":"Centro /109 house ,India",
     "type": "house",
-    "bed": "4",
+    "bed": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diamvoluptua.",
     "district": "Centro",
     "price": "R$ 2.600.000",
-    "photo": "https://res.cloudinary.com/dvcywi3uf/image/upload/v1520011556/chatbot-imoveis/casa-centro.jpg"
+    "photo": "https://cdn.apartmenttherapy.info/image/upload/v1561046398/at/archive/cfeb5df011c4581264114c16d80cc9b0a4e68353.jpg"
   },
   {
     "id": 2,
     "title": "Casa Costa e Silva",
     "adress":"Casa-costa Street- Xtria, India",
     "type": "house",
-    "bed": "3",
+    "bed": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diamvoluptua.",
     "district": "Costa e Silva",
     "price": "R$ 280.000",
-    "photo": "https://res.cloudinary.com/dvcywi3uf/image/upload/v1520014276/chatbot-imoveis/casa-costa-silva.jpg"
+    "photo": "https://images.ctfassets.net/3s5io6mnxfqz/ieW1cJQYzFKzdAAAz0BN2/31c92cbc7901d1462cd7e610a7efe708/AdobeStock_361162520.jpeg"
   },
   {
     "id": 3,
     "title": "AP América",
    "adress":"America Street- Lavasa NewYork, USA",
     "type": "ap",
-    "bed": "2",
+    "bed": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diamvoluptua.",
     "district": "América",
     "price": "R$ 460.000",
-    "photo": "https://res.cloudinary.com/dvcywi3uf/image/upload/v1520014434/chatbot-imoveis/ap-america.jpg"
+    "photo": "https://is1-2.housingcdn.com/4f2250e8/ed0bd359281234c3c59a2f8e2b647daa/v0/fs/uttrayan_appartment-lake_town-kolkata-reputed_builder.jpg"
   },
   {
     "id": 4,
     "title": "AP Centro",
     "adress":"AP - 202 United, USA",
     "type": "ap",
-    "bed": "2",
+    "bed": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diamvoluptua.",
     "district": "Centro",
     "price": "R$ 1.200",
-    "photo": "https://res.cloudinary.com/dvcywi3uf/image/upload/v1520014434/chatbot-imoveis/ap-america.jpg"
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRWSytGFydevLXnsYFjyvpBhLhAWv31EHRyg&usqp=CAU"
   }
  ]
 }
