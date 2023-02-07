@@ -51,102 +51,76 @@
       "id": 4
     }
   ],
-  "jobs":[
-{
-"id": 1,
-"company": "Scoot",
-"position": "Senior Software Engineer",
-"postedAt": "5h ago",
-"contract": "Full Time",
-"location": "United Kingdom"
-},
-{
-"id": 2,
-"company": "Blogr",
-"position": "Haskell and PureScript Dev",
-"postedAt": "20h ago",
-"contract": "Part Time",
-"location": "United States"
-},
-{
-"id": 3,
-"company": "Vector",
-"position": "Midlevel Back End Engineer",
-"postedAt": "1d ago",
-"contract": "Part Time",
-"location": "Russia"
-},
-{
-"id": 4,
-"company": "Office Lite",
-"position": "Senior Application Engineer",
-"postedAt": "2d ago",
-"contract": "Full Time",
-"location": "Japan"
-},
-{
-"id": 5,
-"company": "Pod",
-"position": "Remote DevOps Engineer",
-"postedAt": "2d ago",
-"contract": "Part Time",
-"location": "Japan"
-},
-{
-"id": 6,
-"company": "Creative",
-"position": "Desktop Support Manager",
-"postedAt": "4d ago",
-"contract": "Part Time",
-"location": "Germany"
-},
-{
-"id": 7,
-"company": "Pomodoro",
-"position": "iOS Engineer",
-"postedAt": "1w ago",
-"contract": "Full Time",
-"location": "United States"
-},
-{
-"id": 8,
-"company": "Maker",
-"position": "Senior EJB Developer",
-"postedAt": "1w ago",
-"contract": "Full Time",
-"location": "United Kingdom"
-},
-{
-"id": 9,
-"company": "Coffeeroasters",
-"position": "Senior Frontend Developer",
-"postedAt": "1w ago",
-"contract": "Part Time",
-"location": "Singapore"
-},
-{
-"id": 10,
-"company": "Mastercraft",
-"position": "App & Website Designer",
-"postedAt": "2w ago",
-"contract": "Freelance",
-"location": "United States"
-},
-{
-"id": 11,
-"company": "Crowdfund",
-"position": "Fullstack Developer",
-"postedAt": "1mo ago",
-"contract": "Part Time",
-"location": "New Zealand"
-},
-{
-"id": 12,
-"company": "Typemaster",
-"position": "Technical Lead Engineer",
-"postedAt": "1mo ago",
-"contract": "Part Time",
-"location": "United Kingdom"
-}
-]
+ "estateData":[
+  {
+    "id": 1,
+    "adress": "Room 1316",
+    "price": "$940.78",
+    "type": "Bunglow",
+    "images": "http://dummyimage.com/147x100.png/5fa2dd/ffffff"
+  },
+  {
+    "id": 2,
+    "adress": "Apt 954",
+    "price": "$869.49",
+    "type": "Appartment",
+    "images": "http://dummyimage.com/105x100.png/ff4444/ffffff"
+  },
+  {
+    "id": 3,
+    "adress": "Apt 1071",
+    "price": "$660.11",
+    "type": "Appartment",
+    "images": "http://dummyimage.com/165x100.png/dddddd/000000"
+  },
+  {
+    "id": 4,
+    "adress": "Suite 39",
+    "price": "$806.95",
+    "type": "Bunglow",
+    "images": "http://dummyimage.com/144x100.png/cc0000/ffffff"
+  },
+  {
+    "id": 5,
+    "adress": "5th Floor",
+    "price": "$606.68",
+    "type": "Appartment",
+    "images": "http://dummyimage.com/196x100.png/dddddd/000000"
+  },
+  {
+    "id": 6,
+    "adress": "Room 373",
+    "price": "$840.83",
+    "type": "Primmer",
+    "images": "http://dummyimage.com/214x100.png/ff4444/ffffff"
+  },
+  {
+    "id": 7,
+    "adress": "Room 1160",
+    "price": "$565.69",
+    "type": "Bunglow",
+    "images": "http://dummyimage.com/186x100.png/cc0000/ffffff"
+  },
+  {
+    "id": 8,
+    "adress": "PO Box 11266",
+    "price": "$693.94",
+    "type": "Land",
+    "images": "http://dummyimage.com/139x100.png/cc0000/ffffff"
+  },
+  {
+    "id": 9,
+    "adress": "Apt 318",
+    "price": "$837.71",
+    "type": "Appartment",
+    "images": "http://dummyimage.com/228x100.png/cc0000/ffffff"
+  },
+  {
+    "id": 10,
+    "adress": "Suite 60",
+    "price": "$763.88",
+    "type": "Land",
+    "images": "http://dummyimage.com/157x100.png/dddddd/000000"
+  }
+ ]
 }
